@@ -36,6 +36,7 @@ def obtainPersonalInfo():
 header()
 obtainPersonalInfo()
 
+
 # another version
 def header():
     print(f'Personal Information')
